@@ -28,7 +28,7 @@ the information you collect from the attendee in a QR code.
 your smartphone or tablet. There are many such readers that are free of charge.
 Check the app store for your device to find the one that best suites your needs.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see an input panel containing input fields for the attendee
 name, email address, Twitter account name, GitHub account name, and 'Cancel'

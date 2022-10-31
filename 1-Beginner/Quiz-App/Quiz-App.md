@@ -6,7 +6,7 @@ Practice and test your knowledge by answering questions in a quiz application.
 
 As a developer you can create a quiz application for testing coding skills of other developers. (HTML, CSS, JavaScript, Python, PHP, etc...)
 
-## User Stories
+## Main Features
 
 -   [ ] User can start the quiz by pressing a `button`
 -   [ ] User can see a question with 4 possible answers

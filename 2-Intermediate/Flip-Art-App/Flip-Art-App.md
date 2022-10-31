@@ -17,7 +17,7 @@ impact and effect.
 Developers should not rely on animation or graphics libraries to implement
 this app. Instead, try using vanilla Javascript, CSS, and HTML.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see the following primary components in the app window:
     - Configuration panel containing elements used to tailor the animation

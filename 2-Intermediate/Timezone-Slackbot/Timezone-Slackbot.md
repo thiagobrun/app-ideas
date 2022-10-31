@@ -20,7 +20,7 @@ Ming                                                              X
 Note that this format is provided for descriptive purposes only. When
 implemented a more pleasing and user-friendly format may be used.
 
-## User Stories
+## Main Features
 
 -   [ ] User can enter `/tz <user-name> <user-name>...<user-name>` to display tabular representation showing each users timezone
 -   [ ] User can see information displayed using alternate row colors to increase clarity and readability

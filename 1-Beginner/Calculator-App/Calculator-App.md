@@ -15,7 +15,7 @@ mobile device to better understand basic functionality and edge cases.
 
 - You may not use the `eval()` function to execute calculations
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a display showing the current number entered or the
 result of the last operation.

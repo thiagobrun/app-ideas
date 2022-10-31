@@ -16,7 +16,7 @@ Just as important is the need for the UI/UX to be polished and engaging to use.
 user that abandons the site represents the loss of an opportunity to do good
 (see ['What is Web Site Conversion?](##useful-links-and-resources)) below.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a page heading containing the application name.
 -   [ ] User can see an overview of what the app is intended for in 'splash'

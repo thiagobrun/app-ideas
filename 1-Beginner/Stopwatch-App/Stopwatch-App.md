@@ -4,7 +4,7 @@
 
 A stopwatch helps you track the time you spent on activities.
 
-## User Stories
+## Main Features
 
 -   [ ] User can `start` a clock
 -   [ ] User can `stop` the clock

@@ -21,7 +21,7 @@ in your first implementation. Instead, use `Object.keys()` and `Object.values`
 to generate CSV for the header and data rows.
 - Nested JSON structures are not supported.
 
-## User Stories
+## Main Features
 
 -   [ ] User can paste JSON syntax into a text box
 -   [ ] User can click a 'Convert' button to validate the JSON text box and convert it to CSV

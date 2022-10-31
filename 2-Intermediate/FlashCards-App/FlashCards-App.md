@@ -9,7 +9,7 @@ This app is based on a knowledge base of questions and answers about a
 particular subject and randomly displays a card with the question and multiple
 answers. The objective is for the user to select the correct answer(s).
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a single card, randomly picked from the "deck" displayed
         at any point in time

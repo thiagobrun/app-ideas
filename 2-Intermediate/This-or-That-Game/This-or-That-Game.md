@@ -6,7 +6,7 @@ A game in which the user can select their favorite image between two choices.
 
 **Note**: `image`s - might be dogs (as in the example below), cats, cars, houses, pretty much anything.
 
-## User Stories
+## Main Features
 
 - [ ] User can see two images
 - [ ] User can select it's favorite from the two images

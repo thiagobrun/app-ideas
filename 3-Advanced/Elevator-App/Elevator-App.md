@@ -22,7 +22,7 @@ be implemented rather than 8 (two buttons per floor).
 the control panel in the elevator rather than a unique event handler for each
 button.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a cross section diagram of a building with four floors,
 an elevator shaft, the elevator, and an up button on the first floor, up and 

@@ -7,7 +7,7 @@ Build your own customized chrome theme extension. You can also add night light (
 - How chrome extension work(behind the scenes).
 - Basic understanding of HTML/CSS, JS, JSON is required.
 
-## User Stories
+## Main Features
 
 - [ ] User can make a theme according to their own personal color preference
 - [ ] This will extremely benefit the people suffering from color blindness.

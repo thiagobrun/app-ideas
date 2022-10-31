@@ -19,7 +19,7 @@ constraints:
     example the natural logarithm. It's up to you to figure out which function
     to use.
 
-## User Stories
+## Main Features
 
 -   [ ] User can enter up to 8 binary digits in one input field
 -   [ ] User must be notified if anything other than a 0 or 1 was entered

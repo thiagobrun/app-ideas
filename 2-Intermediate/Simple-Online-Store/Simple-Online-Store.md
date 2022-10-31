@@ -17,7 +17,7 @@ shopping cart.
 Javascript objects if you are developing in Javascript. For other languages
 feel free to choose the in memory solution of your choice.
 
-## User Stories
+## Main Features
 
 -   [ ] User can click on a `View Products` button on the Landing Page to 
 display the Products Page.

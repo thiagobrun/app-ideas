@@ -8,7 +8,7 @@ The objective of the Word Frequency app is count the frequency of words in a
 block of text and create a tabular display of each unique word in the text
 along with its frequency, in descending order by frequency.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a text input box, a 'Translate' button, and a word
         frequency table.

@@ -18,7 +18,7 @@ normal, and fast speed setting.
 - You may use an animation library, but you'll get more out of this project
 if you try to implement it using native language features.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see: 
     - An input panel containing controls to configure the game's UI and 

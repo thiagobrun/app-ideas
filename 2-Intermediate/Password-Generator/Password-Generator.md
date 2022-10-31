@@ -4,7 +4,7 @@
 
 Generate passwords based on certain characteristics selected by the user.
 
-## User Stories
+## Main Features
 
 - [ ] User can select the length of the generated password
 - [ ] User can select one or multiple of the following: `Include uppercase letters`, `Include lowercase letters`, `Include numbers`, `Include symbols`

@@ -136,7 +136,7 @@ const loadDB = () => {
 ```
 
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a web page containing a control panel containing three
 buttons - 'Load DB', 'Query DB', and 'Clear DB'.

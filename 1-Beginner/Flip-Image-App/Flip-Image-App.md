@@ -14,7 +14,7 @@ of the images the user may flip them vertically or horizontally.
 You must only use native HTML, CSS, and Javascript to implement this app.
 Image packages and libraries are not allowed.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a pane containing a single image repeated in a 2x2 matrix
 -   [ ] User can flip any one of the images vertically or horizontally using a set of up, down, left, and right arrows next to the image

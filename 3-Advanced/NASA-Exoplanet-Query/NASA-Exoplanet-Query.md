@@ -20,7 +20,7 @@ results.
 - The Developer will need to review the Exoplanet Archive documentation to
 understand the format of the data fields.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see an query input panel containing dropdowns allowing the
 user to query on year of discovery, discovery method, host name, and discovery

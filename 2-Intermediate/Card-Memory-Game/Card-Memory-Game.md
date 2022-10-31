@@ -4,7 +4,7 @@
 
 Card memory is a game where you have to click on a card to see what image is underneath it and try to find the matching image underneath the other cards.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a grid with n x n cards (`n` is an integer). All the cards are faced down initially (`hidden` state)
 -   [ ] User can click a button to start the game. When this button is clicked, a timer will start

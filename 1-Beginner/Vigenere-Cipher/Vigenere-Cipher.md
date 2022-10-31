@@ -31,7 +31,7 @@ themselves these questions:
     Vigenere Cipher?
     - How would you go about trying to crack this encryption?
 
-## User Stories
+## Main Features
 
 -   [ ] User can see the app window with these components:
     - Plain text message input field

@@ -12,7 +12,7 @@ The Regular Expression Helper helps you learn more about Regular Expressions
 by building a useful tool you'll also be able to use to test expressions
 you use in your apps.
 
-## User Stories
+## Main Features
 
 -   [ ] User can enter a regular expression.
 -   [ ] User can enter a string the regular expression can be run against.

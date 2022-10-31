@@ -11,7 +11,7 @@ and waiting for them to be prepared and delivered to a pickup counter. After
 placing the order the customer waits on the order to be announced before
 picking it up and proceeding to the dining area.
 
-The user stories that make up this app center around four distinct roles:
+The Main Features that make up this app center around four distinct roles:
 
 - User - the end user using the application
 - Customer - the simulated Customer
@@ -19,7 +19,7 @@ The user stories that make up this app center around four distinct roles:
 - Cook - the simulated Cook
 - Server - the simulated Server
 
-This app has quite a few User Stories. Don't be overwhelmed though. Take the 
+This app has quite a few Main Features. Don't be overwhelmed though. Take the 
 time to sketch out not just the UI, but how the different actors (roles) 
 interact and incrementally build the app following Agile principles.
 
@@ -37,7 +37,7 @@ words, new customers arrive at a constant rate.
 - Order tickets are fulfilled at a fixed interval of time as well. They are
 completed at a constant rate.
 
-## User Stories
+## Main Features
 
 ### Application Operation
 -   [ ] User can see an input area that allows the entry of the time interval

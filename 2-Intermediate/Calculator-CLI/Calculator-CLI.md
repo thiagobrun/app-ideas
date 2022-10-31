@@ -4,7 +4,7 @@
 
 Create a basic calculator with addition feature. 
 
-## User Stories
+## Main Features
 
 - [ ] User can add multiple numbers using `add` command.
 - [ ] User can add floating numbers using the `-f` flag.

@@ -10,7 +10,7 @@ a circle is brightened it's predecessor returns to its normal intensity.
 This simulates the effect of a string of rippling lights, similar to the ones
 displayed during the Christmas Holidays.
 
-## User Stories
+## Main Features
 
 -   [ ] User can press a button to start and stop the display
 -   [ ] User can change the interval of time controlling the change in intensity

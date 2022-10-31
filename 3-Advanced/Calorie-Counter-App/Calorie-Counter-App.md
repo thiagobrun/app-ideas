@@ -16,7 +16,7 @@ MyPyramid Food Raw Data file, which is an MS Excel spreadsheet, must be
 downloaded and transformed into a JSON file that will be easier to load and
 search at runtime (hint: take a look at the CSV file format).
 
-## User Stories
+## Main Features
 
 -   [ ] Developer will create a JSON file containing the food items to be
 searched. This will be loaded when the app is started.

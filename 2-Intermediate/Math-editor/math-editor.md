@@ -6,7 +6,7 @@ An app (desktop or web) which you can use to edit different kinds of math formul
 
 The app will probably use a math markup system such as LaTeX.
 
-## User Stories
+## Main Features
 
 -   [ ] User can write to a text document
 -   [ ] User can add a math formula to that text document

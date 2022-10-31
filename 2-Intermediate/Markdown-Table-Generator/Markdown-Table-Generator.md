@@ -4,7 +4,7 @@
 
 Create an application that will convert a regular table with data provided by the User (optionally) into a Markdown formatted table.
 
-## User Stories
+## Main Features
 
 -   [ ] User can create an `HTML table` with a given number of **Rows** and **Columns**
 -   [ ] User can insert text in each cell of the `HTML table`

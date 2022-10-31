@@ -24,7 +24,7 @@ Commercial survey tools include distribution functionality that mass emails
 surveys to Survey Respondents. For simplicity, this app assumes that surveys
 open for responses will be accessed from the app's web page.
 
-## User Stories
+## Main Features
 
 ### General
 

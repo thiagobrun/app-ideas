@@ -16,7 +16,7 @@ typed a new word is displayed and the time interval is slightly reduced.
 Hopefully, this repetitive practice will help you improve both your typing
 speed and accuracy.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see the time interval words must be typed in displayed in 
 the app window.

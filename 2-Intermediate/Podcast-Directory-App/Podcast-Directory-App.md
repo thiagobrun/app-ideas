@@ -24,7 +24,7 @@ and [Techpoint Charlie](https://www.podbean.com/podcast-detail/k76vd-8adc7/Techp
 podcasts from [Podbean](https://www.podbean.com) and create a new page that
 creates a combined list of episodes, sorted by broadcast date.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a table of podcast episodes
 -   [ ] User can see rows in this table showing a clickable episode icon, the

@@ -9,7 +9,7 @@ The challenge: Try this without using any frameworks.
 
 (EX. If you have $0.58, I would have 4 coins: 2 quarters, 0 dimes, 1 nickel and 3 pennies)
 
-## User Stories
+## Main Features
 
 -   [ ] User can enter a dollar value
 -   [ ] User can see the total cents from the converted dollar value

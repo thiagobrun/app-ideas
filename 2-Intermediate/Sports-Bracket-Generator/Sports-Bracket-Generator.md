@@ -19,7 +19,7 @@ The SportsBracket Generator automates the process of creating this type of chart
 drawing it in a browser window to relieve the user from having to draw it by
 hand.
 
-## User Stories
+## Main Features
 
 -   [ ] User can enter the name of the tournament
 -   [ ] User can enter the starting and ending dates of the tournament

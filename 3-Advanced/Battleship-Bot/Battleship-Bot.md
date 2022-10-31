@@ -7,7 +7,7 @@ to the next level. This challenge uses your Battleship Game Engine to create a
 presentation layer using Discord's bot API to allow you to play the game
 via a Discord chat.
 
-## User Stories
+## Main Features
 
 -   [ ] User can display game rules by entering `bb help` into the chat window.
 -   [ ] User can start a game by entering `bb start` into the chat

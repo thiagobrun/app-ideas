@@ -4,7 +4,7 @@
 
 Display multiple images using a slider / carousel.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a slider displaying multiple images every `x` seconds
 -   [ ] User can click on `previous` and `next` buttons and the slider will display the corresponding image

@@ -5,7 +5,7 @@
 Name Generation is nothing more than a sequence of letters that follow certain patterns to create a certain probability density for choosing the next letter in a name.
 This App should utilize a RNN model with LSTM/GRUs to ensure highly likeable naming patterns
 
-## User Stories
+## Main Features
 
 -   [ ] User can specify the first 2 to 3 letters to be used for the initial name
 -   [ ] Use can see the generated name and use it accordingly

@@ -13,12 +13,12 @@ is similar to using an API or a series of routes exposed by a web server.
 
 This challenge requires that you develop the BGE and a very thin, text-based
 presentation layer for testing that's separate from the engine itself. Due to
-this the User Stories below are divided two sets - one for the BGE and one
+this the Main Features below are divided two sets - one for the BGE and one
 for the text-based presentation layer.
 
 BGE is responsible for maintaining game state.
 
-## User Stories
+## Main Features
 
 ### BGE
 

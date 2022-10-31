@@ -18,7 +18,7 @@ The goal of the Bit Masks app is demonstrate how to use bit masks to evaluate
 longer sequences of switches without having to rely on long strings of 
 conditional statements.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a vertical list of checkboxes with the following cities
 and their timezones:

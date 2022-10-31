@@ -36,7 +36,7 @@ reformatted or cleansed before it's presented to the user.
 cannot be secured you should not maintain any confidential or personal
 identifying information (PII) in a browser based database.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see an purchase panel containing buttons for each item containing
 the item number, description, and unit price, as well as a 'Clear' and a

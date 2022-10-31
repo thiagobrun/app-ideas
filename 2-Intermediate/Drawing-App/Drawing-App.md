@@ -4,7 +4,7 @@
 
 Create digital artwork on a canvas on the web to share online and also export as images.
 
-## User Stories
+## Main Features
 
 -   [ ] User can draw in a `canvas` using the mouse
 -   [ ] User can change the color

@@ -28,7 +28,7 @@ language.
     obtain the greeting in the users native language by passing the users IP.
 -   Developers must use a HTML entities decoding to decode the hello message.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a mock login panel containing a user name text input field,
         a password text input field, and 'Login' and 'Logout' buttons.

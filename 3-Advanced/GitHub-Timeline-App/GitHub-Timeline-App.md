@@ -14,7 +14,7 @@ make effective use of color and typography.
 
 Only public GitHub repos should be displayed.
 
-## User Stories
+## Main Features
 
 -   [ ] User can enter a GitHub user name
 -   [ ] User can click a 'Generate' button to create and display the named

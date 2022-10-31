@@ -9,7 +9,7 @@ new language being able to practice helps to solidify your language skills.
 The Spell-It app helps users practice their spelling by playing the audio
 recording of a word the user must then spell using the computer keyboard.
 
-## User Stories
+## Main Features
 
 -   [ ] User can click the 'Play' button to hear the word that's to be entered
 -   [ ] User can see letters displayed in the word input text box as they are

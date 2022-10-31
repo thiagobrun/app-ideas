@@ -15,7 +15,7 @@ that will make them easy to follow.
 JSON file. After implementing the initial version of this app you may
 expand on this to maintain recipes in a file or database.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a list of recipe titles
 -   [ ] User can click a recipe title to display a recipe card containing the

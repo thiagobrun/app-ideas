@@ -5,7 +5,7 @@
 
 An app where users can create polls where voters can suggest any games available on [IGDB](https://www.igdb.com/) to play on a stream or a gaming get-together. IGDB (Internet Game Data Base) has a handy [API](https://www.igdb.com/api) for getting games and implementing some kind of AJAX search for it would be necessary.
 
-## User Stories
+## Main Features
 
 -   [ ] User can create polls
 -   [ ] User can vote on polls (add games)

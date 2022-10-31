@@ -13,7 +13,7 @@ computer into a code representing the key that was pressed.
 The goal of the Key Value app is to display the encoded value on screen each
 time a key is pressed on the keyboard.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a display panel containing a text area where the key value
 and key code will be displayed along with display areas for four other 

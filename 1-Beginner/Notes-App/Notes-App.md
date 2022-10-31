@@ -4,7 +4,7 @@
 
 Create and store your notes for later purpose!
 
-## User Stories
+## Main Features
 
 -   [ ] User can create a note
 -   [ ] User can edit a note

@@ -15,7 +15,7 @@ of the shells, and shuffles the shells for a specific interval of time. The
 user must then click on the shell she thinks the pea is hidden under. The user
 is allowed to continue guessing until the pea is located.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see the canvas with three shells and the pea.
 -   [ ] User can click the shell the pea is to be hidden under.

@@ -78,7 +78,7 @@ class IOTMailbox {
 };
 ```
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a web page containing a control panel containing three
 buttons - 'Start Monitoring', 'Stop Monitoring', and 'Reset'.

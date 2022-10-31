@@ -10,7 +10,7 @@ When you have completed this app and the bonus features try leveling up your
 skills by expanding it to incorporate the features specified in the
 [Simple Online Store](../2-Intermediate/Simple-Online-Store.md).
 
-## User Stories
+## Main Features
 
 These will cover the visual part of the project.
 

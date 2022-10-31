@@ -6,7 +6,7 @@ Windchill combines the actual temperature with the wind speed to calculate
 the windchill factor, or what the perceived temperature is versus the actual
 temperature.
 
-## User Stories
+## Main Features
 
 -   [ ] User can select the measurement system calculations will be performed in - Metric or English
 -   [ ] User can enter the actual temperature and the wind speed

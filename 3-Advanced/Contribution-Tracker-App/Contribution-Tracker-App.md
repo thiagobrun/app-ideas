@@ -26,7 +26,7 @@ either files or databases. Sensitive data, like transactions, must not be
 maintained in local storage. Remember that although you can implement
 protections it is impossible to totally secure browser applications.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a Navigation Bar at the top of each page containing the
 application name and a "hamburger" menu with these option:

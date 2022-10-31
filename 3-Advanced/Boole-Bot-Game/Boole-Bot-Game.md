@@ -16,7 +16,7 @@ continue moving about the arena until only one remains.
 
 - Developers may use graphics and game physics libraries to build the game.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see the game window with these components
     - Game configuration input panel

@@ -14,10 +14,10 @@ your favorite podcasts and episodes. In this app you'll use
 [Podbean](https://www.podbean.com) to create an app to maintain your
 personal library of podcasts.
 
-This project is described in detail by the following user stories, but feel
+This project is described in detail by the following Main Features, but feel
 free to use your imagination.
 
-## User Stories
+## Main Features
 
 ### Favorite Podcast Display
 

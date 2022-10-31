@@ -4,7 +4,7 @@
 
 Convert Github flavored markdown into HTML code.
 
-## User Stories
+## Main Features
 
 -   [ ] User can enter Github flavored markdown into a `textarea`
 -   [ ] User can see the resulting `HTML` in another container/box by pressing on a button

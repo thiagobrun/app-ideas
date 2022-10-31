@@ -17,7 +17,7 @@ Your task is to implement the performance evaluation algorithm, the Xorshift
 pseudorandom number generator, as well as the WELL512a.c algorithm if you 
 choose to attempt the bonus feature.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a panel containing a text box the user can enter the 
 number of rounds into, three output text boxes to contain the starting time,

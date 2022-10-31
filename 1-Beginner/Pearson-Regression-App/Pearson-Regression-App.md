@@ -24,7 +24,7 @@ set of car prices this would let the user test whether or not they are related
 
 - The Developer must program all calculations without relying on a package.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see an input panel with two input fields allowing entry of `x` 
 and `y` coordinates, and 'Add' and 'Calculate' buttons.

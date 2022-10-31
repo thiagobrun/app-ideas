@@ -14,13 +14,13 @@ add new functionality.
 
 ### Constraints ###
 
-- Read the user stories below carefully. Some of the functionality created
+- Read the Main Features below carefully. Some of the functionality created
 for JSON2CSV will need to be modified.
 - You may not use any libraries or packages designed to perform this type of
 conversion.
 - Nested JSON structures are not supported.
 
-## User Stories
+## Main Features
 
 -   [ ] User can paste CSV syntax into a text box
 -   [ ] User can click a 'Convert to JSON' button to validate the CSV text box and convert it to JSON

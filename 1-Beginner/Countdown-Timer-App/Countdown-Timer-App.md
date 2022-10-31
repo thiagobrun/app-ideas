@@ -21,7 +21,7 @@ manipulation functions built in.
 [Counting Down To](https://countingdownto.com/) site. You should develop your
 own original implementation. 
 
-## User Stories
+## Main Features
 
 -   [ ] User can see an event input box containing an event name field, an
 date field, an optional time, and a 'Start' button.

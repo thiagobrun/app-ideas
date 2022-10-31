@@ -15,7 +15,7 @@ The goal of this app is to dynamically change the background color of text boxes
 based to let you gain experience using both CSS variables and dynamically 
 changing them from within the app.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see three two boxes to be used to enter a User ID and Password
 along with 'Cancel' and 'Login' buttons underneath them. The default background

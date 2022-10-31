@@ -15,7 +15,7 @@ as a JSON document that can be readily accessed by your code.
 Although this application specification relies heavily on Javascript, feel free
 to develop it using your language of choice!
 
-## User Stories
+## Main Features
 
 -   [ ] User can see the current status for GitHub Git operations, API Requests,
 Operational Issues, PRs, Dashboard, & Projects, Operational Notifications,

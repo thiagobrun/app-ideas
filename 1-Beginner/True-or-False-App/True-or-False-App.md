@@ -14,7 +14,7 @@ The two values and the conditional operator are entered by the user and the
 result to be displayed will be TRUE or FALSE. The implementation must not use
 the `eval()` function to generate the result of the conditional.
 
-## User Stories
+## Main Features
 
 -   [ ] User can enter two strings to be compared
 -   [ ] User can enter a valid Javascript conditional operator to be used to compare the two strings

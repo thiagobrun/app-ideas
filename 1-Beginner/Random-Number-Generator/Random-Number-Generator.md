@@ -6,7 +6,7 @@ Generate a random number between a range of defined minimun and maximun.
 
 The generator allows the user to use the random property for purposes like games that contains some kind of lottary or for statistics.
 
-## User Stories
+## Main Features
 
 -   [ ] User can define maximun and minimun values for the random number.
 -   [ ] User can press the generate button to generate random number.

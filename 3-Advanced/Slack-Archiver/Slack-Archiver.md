@@ -23,7 +23,7 @@ Implementers are cautioned that further research will be required to
 determine the best extraction method to use prior to attempting any
 development of this application.
 
-## User Stories
+## Main Features
 
 -   [ ] Allow the user to specify the channels to be archived. This includes both adding and removing channels from the list
 -   [ ] Only the owners of the Slack Team should be allowed to archive messages

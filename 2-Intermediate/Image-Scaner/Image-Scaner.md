@@ -4,7 +4,7 @@
 
 Create an android and ios app to find phone numbers, email and website links available in a photo and then organise it in the app.
 
-## User Stories
+## Main Features
 
 -   [ ] User can either click a photo or upload a photo from the gallery
 -   [ ] Processing is done on the image.

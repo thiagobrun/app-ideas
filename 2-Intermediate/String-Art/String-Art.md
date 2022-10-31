@@ -15,7 +15,7 @@ moves. Older images are progressively faded until they disappear.
 
 Animation libraries are not allowed. Use only Vanilla HTML/CSS/JavaScript.
 
-## User Stories
+## Main Features
 
 -   [ ] Start by drawing a multicolored line at a random position within the boundary of it's enclosing window
 -   [ ] Each 20ms draw a new copy of the line at a new position based on a trajectory - the incremental distance from the previous line based on the endpoints

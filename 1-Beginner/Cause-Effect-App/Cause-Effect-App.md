@@ -25,7 +25,7 @@ constraints:
 -   You may use other packages or libraries when implementing subsequent
     versions.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see a list of person names arranged vertically in a summary
         pane on the page.

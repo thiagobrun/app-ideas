@@ -9,7 +9,7 @@ the rescue.
 Kudo's is a Slackbot that allows you to create a recognition of someone else's
 efforts and to make it available through a simple Slack command.
 
-## User Stories
+## Main Features
 
 -   [ ] User can create a kudu using the Slack command: `/kudo add <slack-id> <text>` where:
 

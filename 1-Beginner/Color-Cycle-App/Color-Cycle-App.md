@@ -12,7 +12,7 @@ changes to the originally specified color. These changes allow the user to
 experience the visual impact different changes to the individual parts of
 an RGB color specification (e.g. `#000000` color code).
 
-## User Stories
+## Main Features
 
 -   [ ] User can specify a starting fill color as a six hexadecimal standard
         CSS color code in three individual components of two digits each - red,

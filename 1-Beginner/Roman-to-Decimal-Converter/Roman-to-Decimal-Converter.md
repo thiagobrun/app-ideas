@@ -16,7 +16,7 @@ See the below table the _Symbol - Value_ pairs:
 -   D - 500
 -   M - 1000
 
-## User Stories
+## Main Features
 
 -   [ ] User should be able to enter one Roman number in an input field
 -   [ ] User could see the results in a single output field containing the decimal (base 10) equivalent of the roman number that was entered by pressing a button

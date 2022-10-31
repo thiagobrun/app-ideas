@@ -9,7 +9,7 @@ such as this? Why using two API's, of course.
 The goal of GitTweet is to create a GitHub app to tweet when a pull request
 is created for one of your repos. 
 
-## User Stories
+## Main Features
 
 -   [ ] User can see an input area tabular display prepopulated with rows for 
 each of the GitHub repos she owns and a selection checkbox next to each repo 

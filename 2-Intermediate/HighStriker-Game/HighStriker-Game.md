@@ -15,7 +15,7 @@ game. Instead of physical force to move the puck up the track use an algorithm
 of your own design and a random number generator to determine the puck's
 speed and the distance it travels.
 
-## User Stories
+## Main Features
 
 -   [ ] User can see an image of the High Striker tower with the bell at the
 top, the levered platform at the bottom and the track connecting the two.
